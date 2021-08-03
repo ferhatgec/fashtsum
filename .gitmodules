@@ -1,0 +1,3 @@
+[submodule "libs/fasht"]
+	path = libs/fasht
+	url = https://github.com/ferhatgec/fasht.git
